@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Overpass', sans-serif;
+    background-color: rgb(12, 12, 12);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 15px;
+}
+    
+#sobre{
+    font-size: 18px;
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+#icon{
+    width: 100vw;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+img{
+    height: 250px;
+    width: auto;
+}
+
+.imgcontainer{
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#description{
+    margin-top: 50px;
+    width: 100vw;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+
+}
